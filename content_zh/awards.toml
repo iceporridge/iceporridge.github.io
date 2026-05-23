@@ -3,25 +3,103 @@ title = "奖项"
 description = "我获得的荣誉与奖项。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2025"
-content = "奖项说明。"
+title = "黑龙江省优秀毕业生"
+subtitle = "黑龙江省教育厅"
+date = "2025-06"
+content = "全省范围内评选的优秀毕业生荣誉。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2024"
-content = "奖项说明。"
+title = "哈尔滨工程大学优秀毕业生"
+subtitle = "哈尔滨工程大学"
+date = "2025-06"
+content = "表彰在校期间表现优异的应届毕业生。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "国家奖学金"
+subtitle = "中华人民共和国教育部"
+date = "2022-10"
+content = "中国本科生最高级别奖学金（前 0.2%）。"
+
+[[items]]
+title = "中国大学生计算机设计大赛国家级三等奖"
+subtitle = "教育部"
+date = "2023-08"
+content = "计算机设计与创新领域国家级竞赛。"
+
+[[items]]
+title = "中国大学生服务外包创新创业大赛国家级三等奖"
+subtitle = "教育部"
+date = "2024-07"
+content = "服务外包与创新创业领域国家级竞赛。"
+
+[[items]]
+title = "国家级大学生创新创业训练计划项目结题"
+subtitle = "教育部"
+date = "2024-05"
+content = "完成国家级资助的本科生科研项目。"
+
+[[items]]
+title = "中国大学生计算机设计大赛黑龙江省一等奖"
+subtitle = "黑龙江省教育厅"
+date = "2023-05"
+content = "计算机设计大赛省级一等奖。"
+
+[[items]]
+title = "全国大学生数学建模竞赛黑龙江省一等奖"
+subtitle = "中国工业与应用数学学会"
+date = "2023-11"
+content = "数学建模竞赛省级一等奖。"
+
+[[items]]
+title = "中国大学生服务外包创新创业大赛北部赛区二等奖"
+subtitle = "教育部"
+date = "2024-06"
+content = "服务外包大赛北部赛区二等奖。"
+
+[[items]]
+title = "互联网+大学生创新创业大赛黑龙江省铜奖"
+subtitle = "黑龙江省教育厅"
+date = "2023-08"
+content = "中国国际大学生创新大赛省级铜奖。"
+
+[[items]]
+title = "东三省数学建模联赛铜奖"
+subtitle = "东北数学建模联赛组委会"
+date = "2023-09"
+content = "东三省数学建模联赛三等奖。"
+
+[[items]]
+title = "黑龙江省三好学生"
+subtitle = "黑龙江省教育厅"
+date = "2023-12"
+content = "全省范围内评选的优秀学生荣誉。"
+
+[[items]]
+title = "学习标兵（前 0.05%）"
+subtitle = "哈尔滨工程大学"
+date = "2023-02"
+content = "表彰学习成绩最顶尖的学生。"
+
+[[items]]
+title = "校三好学生"
+subtitle = "哈尔滨工程大学"
 date = "2023"
-content = "奖项说明。"
+content = "两次获得（2023年3月和10月），表彰学术与品德兼优。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2022"
-content = "奖项说明。"
+title = "校优秀学生一等奖学金"
+subtitle = "哈尔滨工程大学"
+date = "2022–2024"
+content = "连续4次获得，综合排名专业第一。"
+
+[[items]]
+title = "校优秀共青团员 / 校优秀共青团干部（前 0.05%）"
+subtitle = "哈尔滨工程大学"
+date = "2023"
+content = "表彰在团组织工作中的突出表现。"
+
+[[items]]
+title = "校优秀学生干部"
+subtitle = "哈尔滨工程大学"
+date = "2023"
+content = "表彰在学生工作中的贡献。"

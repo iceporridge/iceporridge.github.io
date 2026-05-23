@@ -1,10 +1,24 @@
 type = "card"
-title = "Teaching"
-description = "Courses I have taught or assisted with."
+title = "Projects"
+description = "Research projects I have worked on."
 
 [[items]]
-title = "Example Course"
-subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities. Content of this course can be found [here](https://example.com)."
-tags = ["Undergraduate", "CS"]
+title = "Vision-Language Model Optimization for Autonomous Driving Q&A"
+subtitle = "Undergraduate Research"
+date = "2024.12 – 2025.03"
+content = "Designed a vision-language model using ViT-B/32 and T5-Base with cross-attention fusion for multi-view autonomous driving Q&A. Achieved SOTA results on DriveLM dataset with lower computational cost."
+tags = ["Computer Vision", "NLP", "Autonomous Driving"]
+
+[[items]]
+title = "teco-RAG: Retrieval-Augmented Generation Optimization"
+subtitle = "Undergraduate Research"
+date = "2024.11 – 2024.12"
+content = "Built a RAG system with RapidOCR, hybrid retrieval (vector + BM25), and bge-reranker. Implemented query rewriting and optimized prompting to reduce hallucinations."
+tags = ["NLP", "RAG", "Information Retrieval"]
+
+[[items]]
+title = "Interpretable Reinforcement Learning Agent Based on Q-Learning"
+subtitle = "Undergraduate Research"
+date = "2023.12 – 2024.06"
+content = "Trained DQN agents on OpenAI Gym Breakout achieving 98% of expert scores. Applied decision tree surrogates for interpretable policy analysis."
+tags = ["Reinforcement Learning", "Interpretable ML"]

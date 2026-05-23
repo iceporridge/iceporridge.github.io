@@ -1,9 +1,9 @@
 type = "card"
 title = "Services"
-description = "Professional services and community involvement."
+description = "Professional and community service."
 
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
-date = "2024"
-content = "Reviewed papers for..."
+title = "Student Leader"
+subtitle = "Harbin Engineering University"
+date = "2022 – 2024"
+content = "Served as a student cadre and Communist Youth League cadre, organizing campus activities and volunteer services."

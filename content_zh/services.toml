@@ -1,9 +1,9 @@
 type = "card"
-title = "学术服务"
+title = "服务"
 description = "专业服务与社区参与。"
 
 [[items]]
-title = "审稿人"
-subtitle = "某期刊"
-date = "2024"
-content = "参与审阅论文。"
+title = "学生干部"
+subtitle = "哈尔滨工程大学"
+date = "2022 – 2024"
+content = "担任学生干部及共青团干部，组织校园活动与志愿服务。"

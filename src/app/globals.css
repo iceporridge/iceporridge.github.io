@@ -1,12 +1,5 @@
 @import "tailwindcss";
 
-@font-face {
-  font-family: "Georgia CDN";
-  src: url("https://jialeliu.com/fonts/georgiab.woff2") format("woff2");
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-}
 
 /* Explicitly set dark mode to use class strategy */
 @variant dark (&:where(.dark, .dark *));
@@ -15,16 +8,16 @@
 :root,
 .light {
   /* Light theme colors */
-  --background: #fefffe;
+  --background: #ffffff;
   --foreground: #0f172a;
   
-  /* Brand colors - Deep Navy & Gold */
+  /* Brand colors - Deep Navy & Blue */
   --primary: #1e293b;
   --primary-light: #334155;
   --primary-dark: #0f172a;
-  --accent: #d4a562;
-  --accent-light: #e4b976;
-  --accent-dark: #b8914d;
+  --accent: #3b6fa0;
+  --accent-light: #4d8abf;
+  --accent-dark: #2a5680;
   
   /* Neutral colors */
   --neutral-50: #f8fafc;
@@ -86,7 +79,7 @@
   
   /* Typography */
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  --font-serif: 'Georgia CDN', Georgia, serif;
+  --font-serif: Georgia, 'Times New Roman', serif;
   --font-mono: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
   
   /* Font sizes */
@@ -151,9 +144,9 @@ html[data-locale^="zh"] {
   --primary: #f8fafc;
   --primary-light: #e2e8f0;
   --primary-dark: #cbd5e1;
-  --accent: #e4b976;
-  --accent-light: #f0c674;
-  --accent-dark: #d4a562;
+  --accent: #5a9fd4;
+  --accent-light: #7ab8e8;
+  --accent-dark: #3d7ab8;
   
   /* Dark mode glass effect */
   --glass-bg: rgba(15, 23, 42, 0.8);
@@ -173,6 +166,11 @@ html[data-locale^="zh"] {
   --neutral-900: #0f172a;
 }
 
+
+::selection {
+  background: var(--accent);
+  color: #ffffff;
+}
 
 body {
   background: var(--background);

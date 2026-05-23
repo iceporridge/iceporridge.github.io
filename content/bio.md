@@ -1,5 +1,6 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am currently pursuing my M.Sc. degree at the School of Information Science and Technology, University of Science and Technology of China (USTC), under the supervision of Prof. Tianzhu Zhang. My research focuses on multimodal learning, with applications in perception and generation. I am a member of [MAI Group](https://iceporridge.github.io/mai-group/) (Multimodal Artificial Intelligence Group).
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+## Education
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+- **2025.09 ~ Present** M.Sc., School of Information Science and Technology, University of Science and Technology of China, Hefei
+- **2021.09 ~ 2025.06** B.Eng., Software Engineering, Harbin Engineering University, Harbin

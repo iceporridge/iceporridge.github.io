@@ -1,10 +1,24 @@
 type = "card"
-title = "教学"
-description = "我曾参与授课或助教的课程。"
+title = "科研项目"
+description = "我参与过的科研项目。"
 
 [[items]]
-title = "示例课程"
-subtitle = "助教"
-date = "2024"
-content = "课程内容与职责简介。"
-tags = ["本科生", "计算机"]
+title = "视觉语言模型在自动驾驶问答场景中的优化"
+subtitle = "本科科研"
+date = "2024.12 – 2025.03"
+content = "使用 ViT-B/32 和 T5-Base 设计视觉语言模型，通过交叉注意力融合多视角信息，在 DriveLM 数据集上以更低计算资源达到最优效果。"
+tags = ["计算机视觉", "自然语言处理", "自动驾驶"]
+
+[[items]]
+title = "teco-RAG：检索增强生成优化"
+subtitle = "本科科研"
+date = "2024.11 – 2024.12"
+content = "构建基于 RAG 框架的文档处理系统，整合 RapidOCR、混合检索（向量+BM25）和 bge-reranker 重排序，实现查询优化与幻觉抑制。"
+tags = ["自然语言处理", "RAG", "信息检索"]
+
+[[items]]
+title = "基于可解释性强化学习的游戏代理算法"
+subtitle = "本科科研"
+date = "2023.12 – 2024.06"
+content = "使用 DQN 在 OpenAI Gym Breakout 中训练智能体达到专家级 98% 得分，采用决策树代理模型进行可解释性分析。"
+tags = ["强化学习", "可解释机器学习"]

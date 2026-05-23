@@ -3,25 +3,103 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
+title = "Outstanding Graduate of Heilongjiang Province"
+subtitle = "Heilongjiang Provincial Department of Education"
+date = "2025-06"
+content = "Awarded to top graduates across the province."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
+title = "Outstanding Graduate of Harbin Engineering University"
+subtitle = "Harbin Engineering University"
+date = "2025-06"
+content = "Recognized for outstanding academic performance and overall achievements."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "National Scholarship"
+subtitle = "Ministry of Education of China"
+date = "2022-10"
+content = "The highest-level scholarship for undergraduate students in China (top 0.2%)."
+
+[[items]]
+title = "National Third Prize, China University Student Computer Design Competition"
+subtitle = "Ministry of Education"
+date = "2023-08"
+content = "National level competition in computer design and innovation."
+
+[[items]]
+title = "National Third Prize, China University Student Service Outsourcing Innovation Competition"
+subtitle = "Ministry of Education"
+date = "2024-07"
+content = "National level competition in service outsourcing and entrepreneurship."
+
+[[items]]
+title = "National-Level Innovation & Entrepreneurship Training Program (Completed)"
+subtitle = "Ministry of Education"
+date = "2024-05"
+content = "Completed a nationally funded undergraduate research project."
+
+[[items]]
+title = "First Prize, CUSCDC — Heilongjiang Province"
+subtitle = "Heilongjiang Provincial Department of Education"
+date = "2023-05"
+content = "Provincial first prize in China University Student Computer Design Competition."
+
+[[items]]
+title = "First Prize, CUMCM — Heilongjiang Province"
+subtitle = "China Society for Industrial and Applied Mathematics"
+date = "2023-11"
+content = "Provincial first prize in China Undergraduate Mathematical Contest in Modeling."
+
+[[items]]
+title = "Second Prize, Service Outsourcing Competition — Northern Region"
+subtitle = "Ministry of Education"
+date = "2024-06"
+content = "Regional second prize in the northern China division."
+
+[[items]]
+title = "Bronze Prize, Internet+ Innovation & Entrepreneurship Competition — Heilongjiang Province"
+subtitle = "Heilongjiang Provincial Department of Education"
+date = "2023-08"
+content = "Provincial bronze prize in China International College Students' Innovation Competition."
+
+[[items]]
+title = "Bronze Prize, Northeast Mathematical Modeling Contest"
+subtitle = "Northeast Mathematical Modeling Association"
+date = "2023-09"
+content = "Third prize in the Northeast China Mathematical Modeling Contest."
+
+[[items]]
+title = "Outstanding Student of Heilongjiang Province"
+subtitle = "Heilongjiang Provincial Department of Education"
+date = "2023-12"
+content = "Awarded to top students across the province."
+
+[[items]]
+title = "Outstanding Academic Pacemaker (Top 0.05%)"
+subtitle = "Harbin Engineering University"
+date = "2023-02"
+content = "Recognized as one of the top-performing students at the university."
+
+[[items]]
+title = "Outstanding Student of HEU"
+subtitle = "Harbin Engineering University"
 date = "2023"
-content = "Description of the award."
+content = "Awarded twice (March and October 2023) for academic and moral excellence."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "First-Class Scholarship for Academic Excellence"
+subtitle = "Harbin Engineering University"
+date = "2022–2024"
+content = "Awarded 4 consecutive times for ranking 1st in the cohort."
+
+[[items]]
+title = "Outstanding Communist Youth League Member & Cadre"
+subtitle = "Harbin Engineering University"
+date = "2023"
+content = "Recognized among top 0.05% of members for leadership and service."
+
+[[items]]
+title = "Outstanding Student Leader"
+subtitle = "Harbin Engineering University"
+date = "2023"
+content = "Awarded for contributions to student organization and campus activities."
